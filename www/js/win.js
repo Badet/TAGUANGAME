@@ -1,0 +1,5 @@
+winGame={
+	create:function () {
+		
+	},
+}
